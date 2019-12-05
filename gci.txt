@@ -1,4 +1,4 @@
 fn main() {
-    
+    io::Result<T>
     println!("Hello, GCI!");
 }
